@@ -1,3 +1,4 @@
+ 这份程序使用的技术有JSP+Servlet+JDBC+HTML+CSS+JQuery+AJAX，是一个比较初级的网络聊天室。算是一个自己练手的小项目。
  如果你需要运行这份程序：
  1.修改com.util.DBUtil类中password为你的MySQL密码
  2.在MySQL中导入chatroom.sql
